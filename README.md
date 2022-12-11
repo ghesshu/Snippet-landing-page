@@ -25,7 +25,7 @@ This is a Landing page for Snippet
 
 ### Links
 
-- Solution URL: (https://snippet-landing-page-htqf.vercel.app/)
+- Solution URL: (https://github.com/ghesshu/Snippet-landing-page)
 - Live Site URL: (https://snippet-landing-page-htqf.vercel.app/)
 
 
@@ -54,5 +54,4 @@ I really did get a huge grasp on Tailwind Css after working on this project.
 ## Author
 
 - Website - [Hughes Tottimeh](https://github.com/ghesshu)
-- Frontend Mentor - [@ghesshu](https://www.frontendmentor.io/profile/yourusername)
 - Twitter - [@ghes_hu](https://www.twitter.com/ghes_hu)
