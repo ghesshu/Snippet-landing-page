@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.n-hero{
+    background-image: url("../images/Background.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
