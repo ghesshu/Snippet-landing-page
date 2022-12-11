@@ -25,8 +25,8 @@ This is a Landing page for Snippet
 
 ### Links
 
-- Solution URL: (https://github.com/ghesshu/Manage-Landing-Page-Master)
-- Live Site URL: (https://manage-landing-page-master-ghesshu.vercel.app/)
+- Solution URL: (https://snippet-landing-page-htqf.vercel.app/)
+- Live Site URL: (https://snippet-landing-page-htqf.vercel.app/)
 
 
 ### Built with
